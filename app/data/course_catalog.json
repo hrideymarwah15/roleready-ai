@@ -1,0 +1,229 @@
+{
+  "courses": {
+    "Python": {
+      "name": "Python Fundamentals",
+      "duration_weeks": 4,
+      "description": "Learn Python basics, data types, control flow, and functions"
+    },
+    "JavaScript": {
+      "name": "JavaScript Essentials",
+      "duration_weeks": 4,
+      "description": "Master JavaScript syntax, DOM manipulation, and async programming"
+    },
+    "SQL": {
+      "name": "SQL Fundamentals",
+      "duration_weeks": 3,
+      "description": "Database basics, queries, joins, and optimization"
+    },
+    "Git": {
+      "name": "Git & Version Control",
+      "duration_weeks": 2,
+      "description": "Version control, branching, collaboration workflows"
+    },
+    "Linux": {
+      "name": "Linux Essentials",
+      "duration_weeks": 3,
+      "description": "Command line, file systems, permissions, and shell scripting"
+    },
+    "Docker": {
+      "name": "Docker & Containerization",
+      "duration_weeks": 3,
+      "description": "Docker basics, images, containers, networking"
+    },
+    "Kubernetes": {
+      "name": "Kubernetes Orchestration",
+      "duration_weeks": 4,
+      "description": "Container orchestration, deployments, services, scaling"
+    },
+    "React": {
+      "name": "React Development",
+      "duration_weeks": 6,
+      "description": "Components, hooks, state management, performance optimization"
+    },
+    "Vue.js": {
+      "name": "Vue.js Fundamentals",
+      "duration_weeks": 5,
+      "description": "Vue components, directives, lifecycle, composition API"
+    },
+    "Angular": {
+      "name": "Angular Framework",
+      "duration_weeks": 6,
+      "description": "RxJS, dependency injection, modules, services"
+    },
+    "Node.js": {
+      "name": "Node.js Backend Development",
+      "duration_weeks": 5,
+      "description": "Event loop, modules, file system, streams"
+    },
+    "Express": {
+      "name": "Express.js Web Framework",
+      "duration_weeks": 4,
+      "description": "Routing, middleware, error handling, API development"
+    },
+    "Flask": {
+      "name": "Flask Web Development",
+      "duration_weeks": 4,
+      "description": "Routing, templates, database integration, blueprints"
+    },
+    "Django": {
+      "name": "Django Full Stack",
+      "duration_weeks": 6,
+      "description": "ORM, admin panel, authentication, deployment"
+    },
+    "FastAPI": {
+      "name": "FastAPI Modern APIs",
+      "duration_weeks": 4,
+      "description": "Async endpoints, validation, documentation, security"
+    },
+    "PostgreSQL": {
+      "name": "PostgreSQL Advanced",
+      "duration_weeks": 4,
+      "description": "ACID, transactions, indexing, performance tuning"
+    },
+    "MongoDB": {
+      "name": "MongoDB NoSQL",
+      "duration_weeks": 3,
+      "description": "Document model, aggregation, replication"
+    },
+    "Redis": {
+      "name": "Redis Caching",
+      "duration_weeks": 2,
+      "description": "Data structures, caching strategies, pub/sub"
+    },
+    "Elasticsearch": {
+      "name": "Elasticsearch Search",
+      "duration_weeks": 3,
+      "description": "Indexing, queries, full-text search, analytics"
+    },
+    "Machine Learning": {
+      "name": "ML Fundamentals",
+      "duration_weeks": 8,
+      "description": "Supervised learning, evaluation, feature engineering"
+    },
+    "Deep Learning": {
+      "name": "Deep Learning Advanced",
+      "duration_weeks": 8,
+      "description": "Neural networks, CNNs, RNNs, transformers"
+    },
+    "NumPy": {
+      "name": "NumPy Scientific Computing",
+      "duration_weeks": 2,
+      "description": "Arrays, operations, linear algebra"
+    },
+    "Pandas": {
+      "name": "Pandas Data Manipulation",
+      "duration_weeks": 3,
+      "description": "DataFrames, grouping, merging, time series"
+    },
+    "Scikit-learn": {
+      "name": "Scikit-learn ML Toolkit",
+      "duration_weeks": 4,
+      "description": "Classification, regression, clustering, pipelines"
+    },
+    "TensorFlow": {
+      "name": "TensorFlow Deep Learning",
+      "duration_weeks": 6,
+      "description": "Keras API, training loops, deployment"
+    },
+    "PyTorch": {
+      "name": "PyTorch Deep Learning",
+      "duration_weeks": 6,
+      "description": "Tensors, autograd, modules, distributed training"
+    },
+    "Statistics": {
+      "name": "Statistics for Data Science",
+      "duration_weeks": 4,
+      "description": "Probability, distributions, hypothesis testing"
+    },
+    "Data Analysis": {
+      "name": "Data Analysis Bootcamp",
+      "duration_weeks": 5,
+      "description": "EDA, visualization, statistical testing"
+    },
+    "AWS": {
+      "name": "AWS Cloud Services",
+      "duration_weeks": 5,
+      "description": "EC2, S3, RDS, IAM, deployment"
+    },
+    "GCP": {
+      "name": "Google Cloud Platform",
+      "duration_weeks": 5,
+      "description": "Compute Engine, Cloud SQL, BigQuery"
+    },
+    "Azure": {
+      "name": "Microsoft Azure",
+      "duration_weeks": 5,
+      "description": "Virtual machines, App Service, data services"
+    },
+    "CI/CD": {
+      "name": "CI/CD Pipelines",
+      "duration_weeks": 3,
+      "description": "Automation, testing, deployment strategies"
+    },
+    "Jenkins": {
+      "name": "Jenkins Automation",
+      "duration_weeks": 2,
+      "description": "Pipeline syntax, plugins, integration"
+    },
+    "GitHub Actions": {
+      "name": "GitHub Actions Workflows",
+      "duration_weeks": 2,
+      "description": "Workflow syntax, runners, secrets management"
+    },
+    "TypeScript": {
+      "name": "TypeScript Advanced",
+      "duration_weeks": 3,
+      "description": "Type system, generics, decorators, utilities"
+    },
+    "GraphQL": {
+      "name": "GraphQL API Development",
+      "duration_weeks": 4,
+      "description": "Schema design, resolvers, caching, subscriptions"
+    },
+    "REST APIs": {
+      "name": "REST API Design",
+      "duration_weeks": 3,
+      "description": "HTTP methods, status codes, error handling"
+    },
+    "Microservices": {
+      "name": "Microservices Architecture",
+      "duration_weeks": 5,
+      "description": "Service boundaries, communication, scaling"
+    },
+    "System Design": {
+      "name": "System Design",
+      "duration_weeks": 6,
+      "description": "Scalability, reliability, trade-offs, patterns"
+    },
+    "Database Design": {
+      "name": "Database Design",
+      "duration_weeks": 3,
+      "description": "Normalization, schemas, optimization"
+    },
+    "Testing": {
+      "name": "Testing Fundamentals",
+      "duration_weeks": 3,
+      "description": "Unit, integration, end-to-end testing"
+    },
+    "pytest": {
+      "name": "pytest Framework",
+      "duration_weeks": 2,
+      "description": "Fixtures, mocking, parametrization"
+    },
+    "Jest": {
+      "name": "Jest Testing Framework",
+      "duration_weeks": 2,
+      "description": "Test writing, mocking, snapshots"
+    },
+    "Agile": {
+      "name": "Agile Methodologies",
+      "duration_weeks": 2,
+      "description": "Principles, sprint planning, ceremonies"
+    },
+    "Scrum": {
+      "name": "Scrum Master Certification",
+      "duration_weeks": 3,
+      "description": "Roles, artifacts, ceremonies, best practices"
+    }
+  }
+}
